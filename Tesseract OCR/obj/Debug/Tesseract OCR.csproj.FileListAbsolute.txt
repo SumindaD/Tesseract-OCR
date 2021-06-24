@@ -1,0 +1,231 @@
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\x86\liblept1753.dll
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\x86\libtesseract3052.dll
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\x64\liblept1753.dll
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\x64\libtesseract3052.dll
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\source\repos\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\x86\liblept1753.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\x86\libtesseract3052.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\x64\liblept1753.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\x64\libtesseract3052.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\x64\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\x64\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\x86\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\x86\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Emgu.CV.World.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\ZedGraph.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Emgu.CV.World.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\ZedGraph.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version2\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\x64\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\x64\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\x86\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\x86\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\ZedGraph.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\ZedGraph.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version5\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\x64\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\x64\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\x86\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\x86\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\ZedGraph.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\ZedGraph.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version6\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\x64\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\x64\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\x86\liblept172.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\x86\libtesseract304.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.api.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.core.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version7\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.xml
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\NUnit3.TestAdapter.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.api.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.core.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.pdb
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.xml
+D:\Code\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\x64\leptonica-1.78.0.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\x64\tesseract41.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\x86\leptonica-1.78.0.dll
+D:\Code\Tesseract OCR\Tesseract OCR\bin\Debug\x86\tesseract41.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csprojAssemblyReference.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.FormOCRTesseract.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract_OCR.Properties.Resources.resources
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.GenerateResource.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CoreCompileInputs.cache
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.api.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.engine.core.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\x64\leptonica-1.78.0.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\x64\tesseract41.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\x86\leptonica-1.78.0.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\x86\tesseract41.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\Configs\bazzar
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.params
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.size
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.traineddata
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.user-patterns
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\tessdata\eng.user-words
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe.config
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.exe
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract OCR.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\Tesseract.dll
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.pdb
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\bin\Debug\nunit.framework.xml
+C:\Users\Aux-091\Documents\Office\PROJECTS\Surity\tesseract\version8\Tesseract OCR\Tesseract OCR\obj\Debug\Tesseract OCR.csproj.CopyComplete
